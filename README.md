@@ -2,6 +2,8 @@
 
 ## 🇬🇧 English
 
+Project completed on September 23, 2023, at 11:56 PM
+
 The goal of this project is to reproduce the behavior of shell pipes using process creation and file descriptor management.
 
 ### Description
@@ -62,6 +64,8 @@ Equivalent to:
 ---
 
 ## 🇫🇷 Français
+
+Projet terminé le 23 septembre 2023 à 23:56
 
 Le but de ce projet est de reproduire le comportement des pipes Unix en utilisant la création de processus et la gestion des descripteurs de fichiers.
 
